@@ -1,0 +1,42 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of go coverage
+*.out
+coverage.html
+
+# Go workspace
+go.work
+go.work.sum
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output
+/bin/
+/dist/
+
+# Vendor (if not committing)
+# vendor/
+TODO.md
+ietf-sd-jwt-1_0-without_appendix.pdf
+ietf-sd-jwt-1_0.pdf
+ietf-sd-jwt-examples-appendix.pdf
+ietf-sd-jwt-examples-chapter5-6.pdf
+ietf-sd-jwt-vc-13.pdf
+eaa_based_on_sd-jwt-vc_etsi_ts_119472-1.pdf
